@@ -18,7 +18,7 @@ I am looking forward to expanding my knowledge, and to gain a new set of skills 
 
 My profile on Canvas:
 
-( https://canvas.instructure.com/about/30361137 )
+( https://canvas.instructure.com/about/30361120 )
 
 My profile on GitHub:
 
