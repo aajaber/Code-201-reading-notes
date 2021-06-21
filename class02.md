@@ -11,27 +11,27 @@ Text in **HTML** are represented by Heading and Paragraph tags
 
 **Heading** :
 
-<h1>: the biggest heading 
+< h1 >: the biggest heading 
 
-<h2>
+< h2 >
 
-<h3>
+< h3 >
 
-<h4>
+< h4 >
 
-<h5>
+< h5 >
 
-<h6>: the lowest heading .
+< h6 >: the lowest heading .
 
-<b> tag for text **BOLDNESS**.
+< b > tag for text **BOLDNESS**.
 
-<i> tag is for it *ITALIC* font style.
+< i > tag is for it *ITALIC* font style.
 
-<br /> tag is for line breaks.
+< br /> tag is for line breaks.
 
-<hr /> to create a break themes.
+< hr /> to create a break themes.
 
-<p> Paragraph tag that takes multiline text.
+< p > Paragraph tag that takes multiline text.
 
 
 
@@ -57,31 +57,31 @@ CSS can be used in 3 ways:
 
 **examples of statements:**
 
-var today= new Date{);
-
-var hourNow = today.getHours{) ;
-
+var today= new Date{ );
+<br/>
+var hourNow = today.getHours { ) ;
+<br/>
 var greeting;
-
+<br/>
 if (hourNow > 18) {
-
+<br/>
 greeting= 'Good evening';
-
+<br/>
 else if (hourNow > 12) {
-
+<br/>
 greeting= 'Good afternoon';
 }
-
+<br/>
 else if (hourNow > O) {
-
+<br/>
 greeting 'Good morning';
 }
-
+<br/>
 else {
 greeting 'Welcome';
 document.write(greeting) ; 
 }
-
+<br/>
 }
 
 

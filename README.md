@@ -22,3 +22,4 @@
 |8   |[More About me](https://aajaber.github.io/Code-201-reading-notes/aboutme)|
 |9   |https://aajaber.github.io/Code-201-reading-notes/aboutme|
 |10  |[class01](https://aajaber.github.io/Code-201-reading-notes/class01)|
+|10  |[class02](https://aajaber.github.io/Code-201-reading-notes/class02)|
