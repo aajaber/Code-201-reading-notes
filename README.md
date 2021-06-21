@@ -23,3 +23,4 @@
 |9   |https://aajaber.github.io/Code-201-reading-notes/aboutme|
 |10  |[class01](https://aajaber.github.io/Code-201-reading-notes/class01)|
 |10  |[class02](https://aajaber.github.io/Code-201-reading-notes/class02)|
+|10  |[201-read03](https://aajaber.github.io/Code-201-reading-notes/read03)|
