@@ -118,11 +118,11 @@ width, height**
 ***Example:***
 
 HTML
-    <div>
-        <p>
+    < div >
+        < p>
            <!--Add any Paragrapgh-->
-        </p>
-    </div>
+         < /p>
+    < /div>
 
 CSS 
 
@@ -210,3 +210,38 @@ CSS
             </div>
           </body>
         </html>
+
+
+## Instructions in JavaScript:
+
+- STATEMENTS
+- COMMENTS
+#
+
+### Variables:
+A script will have to temporarily
+store the bits of information it
+needs to do its job. It can store this
+data in variables. 
+
+
+***How to declare a variable:***
+  
+      var quantity;
+      quantity =3;
+var : is the variable keyboard.
+
+quantity : is the variable name.
+
+3: is variable's value.
+
+
+### DATA TYPES:
+
+- Strings.
+- Numbers (Int,Double).
+- Bool (true or false).
+
+##
+
+![03](03.PNG)
