@@ -19,5 +19,6 @@
 |5   |[Read 4](https://aajaber.github.io/reading-notes/read4)|
 |6   |[Read 5](https://aajaber.github.io/reading-notes/read5)|
 |7   |[Read 6](https://aajaber.github.io/reading-notes/read6)|
-|8   |[More About me ->](https://aajaber.github.io/Code-201-reading-notes/aboutme)|
-https://aajaber.github.io/Code-201-reading-notes/aboutme
+|8   |[More About me](https://aajaber.github.io/Code-201-reading-notes/aboutme)|
+|9   |https://aajaber.github.io/Code-201-reading-notes/aboutme|
+|10  |[class01](https://aajaber.github.io/Code-201-reading-notes/class01)|
