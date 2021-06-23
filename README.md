@@ -6,7 +6,13 @@
 
  **Hobbies:** I like going out for running , lsitiening  to music and playing video games.
 
-
+# 
+ ## Features of Markdown:
+ - **Markdown provides semantic meaning** for content in a relatively simple way
+ - **You can write rich formatted content** extremely quickly (compared to writing directly in HTML tags)
+ -**You can read Markdown easily** in plain text before rendered by HTML
+ - **It doesn’t interrupt** your workflow with the need to click buttons
+- **It’s platform-agnostic** so your content is not tied to the    format of your editor
 
 ## Table of Content
 
