@@ -59,7 +59,7 @@ also can set a height and a width for the image.
 
 - Foreground Color
 
-** Ex:**
+**Ex:**
 
     /* color name */
 
@@ -76,7 +76,7 @@ also can set a height and a width for the image.
 
 - Background Color
 
-** Ex:**
+**Ex:**
 
           body {
               background-color: rgb(200,200,200);}
@@ -190,6 +190,8 @@ font size & font weight attribute will be added in css file.
 
 
  ## Type Scales:
+
+ 
 ![scale](scale.PNG)
 
 
