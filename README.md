@@ -32,3 +32,4 @@
 |12  |[201-read03](https://aajaber.github.io/Code-201-reading-notes/read03)|
 |13  |[201-read04](https://aajaber.github.io/Code-201-reading-notes/read04)|
 |14  |[201-read05](https://aajaber.github.io/Code-201-reading-notes/read05)|
+|14  |[201-read06](https://aajaber.github.io/Code-201-reading-notes/read06)|
