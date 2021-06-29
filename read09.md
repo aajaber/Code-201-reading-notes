@@ -90,3 +90,26 @@ to another web page.
     </form>
 
 
+
+## Events In JavaScript:
+When you browse the web, your browser registers different
+types of events. It's the browser's way of saying, "Hey, this
+just happened." Your script can then respond to these events.
+
+
+### There are a lot of events in JavaScript:
+Here is a selection of the events that occur in the browser while you are
+browsing the web. Any of these events can be used to trigger a function
+in your JavaScript code:
+
+![events](Events.PNG)
+
+
+- **Events fire or raised:**
+ if the user is tapping on a link, a
+cl ick event would fire in the browser.
+
+- **Events Trigger Scripts:**
+Events are said to trigger a function or script. When the click event
+fires on the element in this diagram, it could trigger a script that enlarges
+the selected item. 
