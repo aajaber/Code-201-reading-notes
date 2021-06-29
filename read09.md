@@ -62,31 +62,31 @@ to another web page.
 
 
   **Radio Buttons :**
-      < form action="http://www.example.com/profile.php">
-         < p>Please select your favorite genre:
-        < br />
-        < input type="radio" name="genre" value="rock"
+      <form action="http://www.example.com/profile.php">
+         <p>Please select your favorite genre:
+        <br />
+        <input type="radio" name="genre" value="rock"
         checked="checked" /> Rock
-        < input type="radio" name="genre" value="pop" />
+        <input type="radio" name="genre" value="pop" />
         Pop
-        < input type="radio" name="genre" value="jazz" />
+        <input type="radio" name="genre" value="jazz" />
         Jazz
-        < /p>
-    < /form>
+        </p>
+    </form>
 
 
 **Checkboxes:**
-    < form action="http://www.example.com/profile.php">
-      < p>
+    <form action="http://www.example.com/profile.php">
+      <p>
         Please select your favorite music service(s):
-        < br />
-        < input type="checkbox" name="service"
+        <br />
+        <input type="checkbox" name="service"
         value="itunes" checked="checked" /> iTunes
-        < input type="checkbox" name="service"
+        <input type="checkbox" name="service"
         value="lastfm" /> Last.fm
-        < input type="checkbox" name="service"
+        <input type="checkbox" name="service"
         value="spotify" /> Spotify
-      < /p>
-    < /form>
+      </p>
+    </form>
 
 
