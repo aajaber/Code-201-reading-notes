@@ -35,3 +35,7 @@
 |15  |[201-read06](https://aajaber.github.io/Code-201-reading-notes/read06)|
 |16  |[201-read07](https://aajaber.github.io/Code-201-reading-notes/read07)|
 |17  |[201-read08](https://aajaber.github.io/Code-201-reading-notes/read08)|
+|18  |[201-read09](https://aajaber.github.io/Code-201-reading-notes/read09)|
+
+
+
