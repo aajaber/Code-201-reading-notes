@@ -40,3 +40,5 @@
 |20  |[201-read11](https://aajaber.github.io/Code-201-reading-notes/read11)|
 |21  |[201-read12](https://aajaber.github.io/Code-201-reading-notes/read12)|
 |22  |[201-read13](https://aajaber.github.io/Code-201-reading-notes/read13)|
+|23  |[201-read14a]()|
+|24  |[201-read14b]()|
