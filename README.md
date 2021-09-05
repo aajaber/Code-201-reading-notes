@@ -48,6 +48,4 @@
 |28  |[301-read4](https://aajaber.github.io/Code-reading-notes/301read)|
 |29  |[301-read5](https://aajaber.github.io/Code-reading-notes/301read5)|
 |30  |[301-read6](https://aajaber.github.io/Code-reading-notes/301read6)|
-|31  |[301-read7]()|
-
-
+|31  |[301-read7](https://aajaber.github.io/Code-reading-notes/301read7)|
