@@ -49,3 +49,4 @@
 |29  |[301-read5](https://aajaber.github.io/Code-reading-notes/301read5)|
 |30  |[301-read6](https://aajaber.github.io/Code-reading-notes/301read6)|
 |31  |[301-read7](https://aajaber.github.io/Code-reading-notes/301read7)|
+|32  |[301-read8]()|
