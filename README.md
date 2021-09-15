@@ -50,23 +50,24 @@ studied Computer science at AAU,and graduated in June 2020
 | 23        | [201-read14a](https://aajaber.github.io/Code-201-reading-notes/read14a)   |
 | 24        | [201-read14b](https://aajaber.github.io/Code-201-reading-notes/read14b)   |
 
-Code 301 - Intermediate Software Development
-| Content # | Content |
-| ----------- | ----------- |
-|25 |[301-read1](https://aajaber.github.io/Code-reading-notes/301read1)|
-|26 |[301-read2](https://aajaber.github.io/Code-reading-notes/301read2)|
-|27 |[301-read3](https://aajaber.github.io/Code-reading-notes/301read3)|
-|28 |[301-read4](https://aajaber.github.io/Code-reading-notes/301read)|
-|29 |[301-read5](https://aajaber.github.io/Code-reading-notes/301read5)|
-|30 |[301-read6](https://aajaber.github.io/Code-reading-notes/301read6)|
-|31 |[301-read7](https://aajaber.github.io/Code-reading-notes/301read7)|
-|32 |[301-read8](https://aajaber.github.io/Code-reading-notes/301read8)|
-|33 |[301-read9](https://aajaber.github.io/Code-reading-notes/301read9)|
-|34 |[301-read10](https://aajaber.github.io/Code-reading-notes/301read10)|
-|35 |[301-read11](https://aajaber.github.io/Code-reading-notes/301read11)|
-|36 |[301-read12](https://aajaber.github.io/Code-reading-notes/301read12)|
-|37 |[301-read13](https://aajaber.github.io/Code-reading-notes/301read13)|
-|38 |[301-read14](https://aajaber.github.io/Code-reading-notes/301read14)|
+## Code 301 - Intermediate Software Development
+
+| Content # | Content                                                              |
+| --------- | -------------------------------------------------------------------- |
+| 25        | [301-read1](https://aajaber.github.io/Code-reading-notes/301read1)   |
+| 26        | [301-read2](https://aajaber.github.io/Code-reading-notes/301read2)   |
+| 27        | [301-read3](https://aajaber.github.io/Code-reading-notes/301read3)   |
+| 28        | [301-read4](https://aajaber.github.io/Code-reading-notes/301read)    |
+| 29        | [301-read5](https://aajaber.github.io/Code-reading-notes/301read5)   |
+| 30        | [301-read6](https://aajaber.github.io/Code-reading-notes/301read6)   |
+| 31        | [301-read7](https://aajaber.github.io/Code-reading-notes/301read7)   |
+| 32        | [301-read8](https://aajaber.github.io/Code-reading-notes/301read8)   |
+| 33        | [301-read9](https://aajaber.github.io/Code-reading-notes/301read9)   |
+| 34        | [301-read10](https://aajaber.github.io/Code-reading-notes/301read10) |
+| 35        | [301-read11](https://aajaber.github.io/Code-reading-notes/301read11) |
+| 36        | [301-read12](https://aajaber.github.io/Code-reading-notes/301read12) |
+| 37        | [301-read13](https://aajaber.github.io/Code-reading-notes/301read13) |
+| 38        | [301-read14](https://aajaber.github.io/Code-reading-notes/301read14) |
 
 ## Code 401 - Advanced Software Development
 
